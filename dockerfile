@@ -1,3 +1,3 @@
 FROM python
 COPY . /run
-CMD ['python', 'main.py']
+CMD ["python", "main.py"]
